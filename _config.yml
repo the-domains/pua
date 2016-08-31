@@ -1,0 +1,28 @@
+name: Erotica Magazine-Pick Up Artist Interviews
+favicon: null
+layout_spectrum: 0.5345
+typography_spectrum: 0.3896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#fb8dfe'
+    - '#efc1ef'
+    - '#9a5899'
+    - '#fa63fa'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.75
+  rhythmicContrast: 1
+purpose: []
