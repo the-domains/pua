@@ -1,7 +1,7 @@
-name: Erotica Magazine-How to Get Girls
+name: Erotica Magazine-Pick Up Artist Interviews
 favicon: null
-layout_spectrum: 0.5345
-typography_spectrum: 0.48724
+layout_spectrum: 0.7331462698057294
+typography_spectrum: 0.5312250026036054
 cta:
   domain: null
   bucket: null
@@ -16,9 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0889673731289804
+  lightness: 0.07225012872368097
+  saturation: 0.4234761798288673
+  rhythmicContrast: 0.038187554106116295
 purpose: []
